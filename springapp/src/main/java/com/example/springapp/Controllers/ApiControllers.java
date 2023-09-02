@@ -1,3 +1,4 @@
+@Restcontroller
 public class ApiControllers {
-    
+  
 }
